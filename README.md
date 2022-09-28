@@ -7,4 +7,4 @@
 
 
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopchav&layout=compact=langs_count=8&theme=gotham"/>
+<img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopchav&layout=compact=langs_count=8&theme=gotham"/>
