@@ -21,9 +21,9 @@
 </div>
 
 <div>
-<a=href="mailto::jpchavesgoncalveselias@gmail.com" target="_blank"><https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-<a=href="https://wa.me/5537999804324?text=Ol%C3%A1%21+Vi+seu+perfil+no+GitHub. target="_blank""><https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
-<a=href="https://www.instagram.com/joaopchav/" target="_blank"><https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
-<a=href="https://www.linkedin.com/in/jo%C3%A3o-paulo-chaves-gon%C3%A7alves-elias-a678821a5/" target="_blank"><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-<a=href="https://twitter.com/joaopchav" target="_blank"><https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank"></a>
+<a href="mailto::jpchavesgoncalveselias@gmail.com" target="_blank"><https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
+<a href="https://wa.me/5537999804324?text=Ol%C3%A1%21+Vi+seu+perfil+no+GitHub. target="_blank""><https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
+<a href="https://www.instagram.com/joaopchav/" target="_blank"><https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-chaves-gon%C3%A7alves-elias-a678821a5/" target="_blank"><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+<a href="https://twitter.com/joaopchav" target="_blank"><https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank"></a>
 </div>
