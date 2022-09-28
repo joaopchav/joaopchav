@@ -6,5 +6,5 @@
 
 
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=joaopchav&show_icons=true&theme=gotham&incluse_all_commits=true&cout_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaopchav&show_icons=true&theme=gotham&incluse_all_commits=true&cout_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopchav&layout=compact=langs_count=8&theme=gotham"/>
