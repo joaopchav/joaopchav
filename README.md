@@ -1,6 +1,6 @@
 ### Olá! Meu nome é João Paulo 👋
 
-- 🔭 Atualmente me encontro no 6º periodo de Ciências da Computação na UFLA
+- 🔭 Atualmente me encontro no 8º periodo de Ciências da Computação na UFLA
 - 🌱 Em constante aprendizado!
 - 📫 Para entrar em contato jpchavesgoncalveselias@gmail.com
 
